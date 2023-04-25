@@ -1,0 +1,27 @@
+Business News: Facebook Fixes Security Bug
+
+By Georgia Wells 
+239 words
+19 June 2017
+The Wall Street Journal (Asia Edition)
+AWSJ
+B3
+English
+Copyright 2017 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Facebook Inc. inadvertently exposed the names of some moderators to suspected terrorists and other groups whose content the workers were tasked with reviewing, a flaw the company Friday said has been fixed.
+
+About 1,000 of Facebook's moderators were affected by the flaw, which disclosed their names in an activity log, a spokesman said. Clicking on a name, though, would take the viewer to the public version of the moderator's Facebook profile page. In the vast majority of cases, he said, moderator names weren't viewed by administrators of these groups.
+
+Facebook investigators believe suspected terrorists may have viewed the profiles of fewer than six workers, the spokesman said. According to the investigators, none of the cases involved suspected members of the terror group ISIS, the spokesman said.
+
+The problem began in the fall and was fixed in November, the spokesman said. News of the flaw and subsequent fix was reported earlier by the Guardian.
+
+In response, Facebook made a number of changes to prevent workers' information from becoming available externally again. The company is also testing new accounts that won't require workers to log in with personal Facebook accounts.
+
+"As soon as we learned about this issue, we fixed it and began a thorough investigation to learn as much as possible about what happened," the Facebook spokesman said.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020170618ed6j0000c
+

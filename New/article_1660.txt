@@ -1,0 +1,42 @@
+World
+Messaging App Telegram to Boost Efforts to Remove Terror-Linked Content; Indonesia limited access to service and threatened a complete ban
+
+By James Hookway 
+648 words
+16 July 2017
+16:14
+WSJ Pro Cybersecurity
+RSTPROCY
+English
+Copyright ©017, Dow Jones & Company, Inc. 
+
+JAKARTA, Indonesia—he co-founder of encrypted messaging app Telegram said Sunday that it will put together a team of moderators who are familiar with Indonesia's language and culture to remove terrorist-linked content after Indonesia's government limited access to the service and threatened a complete ban.
+
+The country's Ministry of Communications and Information Technology on Friday complained militants were using the app to recruit Indonesians and spread information on how to carry out terrorist attacks. It threatened to block Telegram entirely if it didn't introduce new measures to filter illegal content, despite an uproar from some users. It also asked internet service providers to block access to the web-based version of the service.
+
+"The government has long observed Telegram and we are a country that prioritizes the safety of our nation, our people," Indonesia's President Joko Widodo said Sunday.
+
+Pavel Durov, who launched the app in 2013 with his brother Nikolai, wrote in a message to his followers on Telegram that he hadn't been aware of the Indonesian government's request to block several chat groups where Islamist radicals are active. He said Telegram had now blocked those chat groups, or channels, as they are known, and would take additional steps to respond to requests from authorities in Indonesia, the world's most populous Muslim nation.
+
+"We are forming a dedicated team of moderators with knowledge of Indonesian culture and language to be able to process reports of terrorist-related content more quickly and accurately," Mr. Durov, a Russian national, said. "Telegram is heavily encrypted and privacy-oriented, but we're no friends of terrorists—n fact, every month we block thousands of ISIS-related public channels…e're constantly striving to be more efficient at preventing terrorist propaganda, and are always open to ideas on how to get better at this."
+
+Security officials here have said that suspected militants detained by police have told them that they received instructions through the app, including orders from an Indonesian national with Islamic State in Syria, Bahrun Naim, who has been accused of masterminding several attacks in Indonesia over the past two years. Officials also have said that militants use the app to share instructions on how to make bombs.
+
+Governments around the region are stepping up efforts to disrupt Islamist radical groups after militants affiliated with Islamic State seized the city of Marawi in the southern Philippines nearly two months ago and are still holding parts of the town. The rebels there also used Telegram to prepare for the assault and publicize the attack.
+
+While other apps also provide a secure, encrypted messaging service, Telegram in addition provides the option to create open channels which are free for anyone to join. This has made a useful way to spread propaganda and recruit new militants.
+
+Rudiantara, the Communications Minister, said that the government had received an apology from Mr. Durov, and that he proposed several measures to tackle the way the app can be used to spread militant ideas.
+
+"I appreciate the response from Pavel and the ministry will follow up the details on the technical side ASAP," Mr. Rudiantara, who uses one name, said in response to a question.
+
+Russian authorities also threatened to block Telegram in June unless it provided more information about the companies which own it. Mr. Durov said at the time he had no issue with providing corporate information, "but not a single byte of data will ever be shared with any government."
+
+Other countries, including the U.K. and Australia, have called on technology companies to do more to help security agencies tackle terrorist threats.
+
+Anita Rachman contributed to this article
+
+Write to James Hookway at james.hookway@wsj.com
+
+Document RSTPROCY20170717ed7g0008d
+

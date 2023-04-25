@@ -1,0 +1,74 @@
+
+Business
+Who Is Hacking the U.S.? Gregory Touhill and James Woolsey on which state actors pose the biggest threats—nd what the government can do about it
+
+1,089 words
+7 March 2017
+14:33
+The Wall Street Journal Online
+WSJO
+English
+Copyright 2017 Dow Jones & Company, Inc. All Rights Reserved. 
+
+The expanding threat of cyberattacks on U.S. government and business interests is of increasing concern to officials responsible for our nation's security. Gerald Seib, The Wall Street Journal's executive Washington editor, discussed the threats and efforts to counter them with former U.S. Chief Information Security Officer Gregory Touhill, and James Woolsey, a former director of the Central Intelligence Agency. Edited excerpts follow.
+
+MR. SEIB: Rank the threat from state actors. Who does it come from? What does it constitute? What's the scariest aspect of it right now?
+
+MR. TOUHILL: If you'd asked me that about three years ago, I would've said that Russia was much higher than anybody else.
+
+However, over the last three years, I've seen some evidence that indicates that while Russia remains extremely potent in their capabilities, actors such as those located in China have closed that gap. We've seen Iran and North Korea really step up their game as well. I would put those four nation-state entities in a bucket that would cause me great concern.
+
+MR. WOOLSEY: I think it's the linkage between technology and ideology that creates the biggest problems. Russia and China are a problem. China in the South China Sea, Russia because it keeps expanding and grabbing countries. But those are states we kind of know how to deal with. I would focus most on ISIS, North Korea and Iran as places where ideology is coming together with the availability of technology.
+
+Means and motives
+
+MR. SEIB: The people who have the capability, the nation-state actors who want to engage in hacking, what's their motivation these days?
+
+MR. TOUHILL: As a War College graduate, I've got to tell you, the answer is always going to be, "It depends." One could make a great argument that ideology and trying to preserve the brand and reputation of the North Korean regime may have been a motivator behind the Sony hack.
+
+If you look at some of the hacks attributed to Chinese actors, with the widespread theft of intellectual property from American business, you could make the case that they are trying to seek a competitive advantage in the marketplace. In the traditional military intelligence and reconnaissance activities, we've seen that throughout both public and private sectors from nation-state actors.
+
+If you look at some of the things we're seeing from criminal actors that are arguably linked to state sponsors, there's hints that it's definitely a correlation between some criminal activity and state sponsorship. There's a blending of motivations there.
+
+At the end of the day, though, the vandals, the burglars, the muggers, the spies, the saboteurs—ou have to protect against all of them based on your risk appetite.
+
+Grid vulnerability
+
+MR. SEIB: There are critical infrastructure systems, too—ower grids, energy systems. And there's not just computer hacking, there are electromagnetic-pulse threats.
+
+MR. WOOLSEY: Absolutely. As the Internet of Things evolves into the Internet of Everything, if you take out one part of it, you can take out cascading parts. We have no single authority in the U.S. government that's responsible for the electric grid and fixing it and building resilience into it, short of the president. And we have then a condition that makes it possible, really plausible, for hacking. Or an electromagnetic pulse.
+
+The commission on the electromagnetic pulse that looked at this seven years ago, chaired by Ronald Reagan's science adviser, Dr. Bill Graham, had two estimates for the loss of life if you lose the electric grid in the U.S. over I think it was a five-year period. One was that you lost two-thirds of the population to disease and social disruption and so forth. The more troubling estimate was you lost 90% of the American population.
+
+MR. SEIB: Is the government in a position to help businesses with cyberattacks? Does it know how to help?
+
+MR. TOUHILL: Yes, we can help. But it is a shared responsibility under our laws, and our value system. If you take a look at cybersecurity as a risk-management issue, collectively we want to buy down the risk for our citizens. But we don't necessarily have an appetite for the government to come out to the private sector and say, "This is your risk level that you've got to maintain." We don't want to stifle innovation, we don't want to stifle the ability of folks to take chances and run their businesses.
+
+We've offered through the government improved information sharing, so if we see something, we say something. I think it's important that the federal government shares information that's actionable. We've seen some improvements in some of the information sharing, but we have a long way to go. We also need to keep an eye on how we share information with whom.
+
+There's a lot of technology solutions. We came up with a machine-to-machine information-sharing mechanism called STIX, for Structured Threat Information Expression, and TAXII, the Trusted Automated Exchange of Indicator Information, a means of disseminating the threat information.
+
+But not everybody has the ability to set up a STIX and TAXII server. We still need to have the ability to communicate with small and medium businesses. We've been working with the different sector coordinating councils and critical infrastructure. And we even set up a program called the Enhanced Cybersecurity Services, where, working with a lot of the internet service providers, we shared with them material so they could set up a secured capability to filter all that crap out before it even got to their downstream customers.
+
+That needs to probably be promoted a little bit more. And then we believe that by helping knock down some of that stuff that could come downstream to the small and medium businesses and the folks in their households, we can focus more on the important actors out there. We need to cut down some of the chaff.
+
+Write to reports@wsj.com
+
+Journal Report
+
+* Read more at WSJ.com/LeadershipReport
+
+More in CIO Network
+
+* How AI Will Change Everything
+
+* What Tech Employees Want
+
+* Three VCs on What's Next in Technology
+
+* Tech Concerns and the Trump Administration
+
+* Why Digital Transformations Are Hard
+
+Document WSJO000020170307ed370010f
+

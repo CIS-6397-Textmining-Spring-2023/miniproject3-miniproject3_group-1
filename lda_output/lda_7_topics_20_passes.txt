@@ -1,0 +1,9 @@
+Topic 1: 0.015*"said" + 0.014*"state" + 0.012*"islam" + 0.008*"kill" + 0.008*"group" + 0.007*"militari" + 0.006*"forc" + 0.006*"milit" + 0.006*"citi" + 0.006*"time"
+Topic 2: 0.016*"state" + 0.016*"islam" + 0.014*"said" + 0.012*"mosul" + 0.011*"iraqi" + 0.010*"citi" + 0.008*"iraq" + 0.008*"forc" + 0.006*"isi" + 0.005*"group"
+Topic 3: 0.008*"muslim" + 0.006*"new" + 0.005*"time" + 0.004*"like" + 0.004*"2017" + 0.004*"peopl" + 0.004*"year" + 0.004*"said" + 0.004*"mr" + 0.003*"york"
+Topic 4: 0.018*"attack" + 0.018*"said" + 0.014*"mr" + 0.009*"state" + 0.008*"islam" + 0.008*"polic" + 0.006*"kill" + 0.005*"year" + 0.005*"new" + 0.005*"terror"
+Topic 5: 0.019*"trump" + 0.010*"presid" + 0.008*"mr" + 0.007*"go" + 0.006*"think" + 0.006*"state" + 0.005*"new" + 0.005*"right" + 0.005*"said" + 0.005*"would"
+Topic 6: 0.018*"mr" + 0.017*"state" + 0.013*"said" + 0.011*"syria" + 0.009*"trump" + 0.009*"american" + 0.008*"islam" + 0.007*"unit" + 0.007*"forc" + 0.007*"militari"
+Topic 7: 0.010*"time" + 0.008*"new" + 0.006*"one" + 0.006*"said" + 0.006*"york" + 0.005*"like" + 0.005*"peopl" + 0.004*"year" + 0.004*"would" + 0.003*"facebook"
+Coherence Score: 0.39407770542949866
+Perplexity Score: -7.889589860278594

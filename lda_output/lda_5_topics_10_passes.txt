@@ -1,0 +1,7 @@
+Topic 1: 0.015*"state" + 0.014*"said" + 0.011*"islam" + 0.010*"syria" + 0.008*"forc" + 0.008*"mr" + 0.007*"syrian" + 0.007*"militari" + 0.007*"american" + 0.005*"offici"
+Topic 2: 0.013*"state" + 0.011*"said" + 0.011*"islam" + 0.010*"iraqi" + 0.009*"iraq" + 0.006*"mosul" + 0.006*"mr" + 0.006*"forc" + 0.005*"citi" + 0.005*"isi"
+Topic 3: 0.007*"new" + 0.007*"said" + 0.006*"time" + 0.005*"mr" + 0.005*"like" + 0.004*"year" + 0.004*"one" + 0.004*"peopl" + 0.004*"muslim" + 0.004*"york"
+Topic 4: 0.016*"mr" + 0.015*"said" + 0.012*"attack" + 0.007*"state" + 0.006*"time" + 0.006*"new" + 0.006*"polic" + 0.005*"islam" + 0.005*"york" + 0.005*"year"
+Topic 5: 0.018*"trump" + 0.010*"mr" + 0.009*"presid" + 0.007*"state" + 0.006*"said" + 0.006*"new" + 0.006*"go" + 0.005*"think" + 0.005*"would" + 0.005*"time"
+Coherence Score: 0.37248779665664317
+Perplexity Score: -7.932444772953481

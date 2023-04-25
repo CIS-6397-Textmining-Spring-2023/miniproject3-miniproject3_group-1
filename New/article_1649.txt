@@ -1,0 +1,43 @@
+Connect the Dots to Stop Terror Plots
+
+By Adam Klein 
+768 words
+27 July 2017
+The Wall Street Journal
+J
+A15
+English
+Copyright 2017 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Why didn't intelligence agencies prevent 9/11? According to the 9/11 Commission, before the attacks, information from intelligence agencies "often failed to make its way to criminal investigators" at the Federal Bureau of Investigation.
+
+By the summer of 2000, the Central Intelligence Agency already knew that two future hijackers were associates of known terrorists, that both men held visas to enter the U.S., and that one had in fact flown to Los Angeles in March 2000. Unfortunately, the FBI learned of this in August 2001 -- at which point the men had already made their last, fateful entry into the U.S. With better information-sharing, the FBI might have arrested the terrorists and prevented the 9/11 attacks.
+
+Some members of Congress now propose to erect new barriers against information-sharing within the intelligence community that could make it even more difficult for officials to spot future terrorists before they strike.
+
+The proposal would affect Section 702, a 2008 law that allows the intelligence community to collect the communications of foreign intelligence targets when the communications travel across U.S. internet cables or are stored on U.S. servers. This has been an effective counterterrorism tool because foreign targets' messages often touch the U.S. internet infrastructure.
+
+Foreign targets are not protected by the Fourth Amendment, so the government has the authority to collect their messages under Section 702 without a warrant. But when foreign targets communicate with Americans, those messages are collected as well, raising privacy concerns.
+
+Another key aspect of the privacy debate around Section 702 is what intelligence agencies should be allowed to do with that data. Courts have allowed agencies to search their 702 records for foreign intelligence purposes and, in the FBI's case, for evidence of crime, which sometimes includes searches for information about Americans.
+
+Privacy-minded House members from both parties are now reportedly considering amending Section 702 to bar government officials from searching 702 data for information about an American unless they get a warrant, based on probable cause, from a federal judge. Reformers have leverage this year because Congress must pass a 702 reauthorization bill before the law sunsets on Dec. 31.
+
+But keeping officials from searching this data would make it more difficult to prevent homegrown terrorist attacks. In 2009 the National Security Agency used 702 to collect emails in which an unknown person in the U.S. asked an al Qaeda member in Pakistan for advice on making explosives. Those emails led the FBI to Najibullah Zazi, a Colorado man with imminent plans to bomb the New York subway system. Catching him saved dozens if not hundreds of lives. If an American appears to be radicalizing, the first thing the FBI should do is check the information already in its database to see whether that person has been in contact with known ISIS or al Qaeda operatives.
+
+Privacy advocates argue that agencies could continue to run these searches as long as they obtain a warrant. The problem is that database checks are most useful at the early stages of an inquiry, when officials are seeking to determine whether a person of interest has connections to terrorists. At that point, investigators rarely have gathered enough evidence to demonstrate probable cause. For that reason, requiring a warrant will make these queries effectively impossible.
+
+Courts have found that this practice comports with the Constitution. In November 2015, the Foreign Intelligence Surveillance Court held that the Fourth Amendment does not require the FBI to get a warrant before conducting routine database checks, which include some 702 data. The scale of the potential privacy concern also appears small: In 2016 only one FBI search for information about an American in a non-national-security criminal investigation led the FBI to review messages collected under 702.
+
+Congress is right to examine the privacy implications of Section 702; powerful tools require powerful constraints. But members concerned about 702 should focus on bolstering the program's oversight and transparency -- by strengthening judicial review and requiring more transparency about how prosecutors use 702 information -- rather than creating barriers to information-sharing within the intelligence community.
+
+The 9/11 Commission report taught that "connecting the dots" using the intelligence government agencies already possess is the key to disrupting terrorist plots. With the threat of terrorism still high, let us not forget this lesson now.
+
+---
+
+Mr. Klein is a senior fellow at the Center for a New American Security, a bipartisan national-security think tank in Washington.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020170727ed7r0000b
+

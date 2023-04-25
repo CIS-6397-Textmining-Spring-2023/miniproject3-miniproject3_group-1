@@ -11,14 +11,13 @@ for filename in os.listdir(corpus_path):
         content = file.read()
         
     # split content into articles
-    articles = content.split("\n\n\n")  # assuming articles are separated by two newlines
+    articles = content.split("\n\n\n")  # assuming articles are separated by three newlines
     
     # create article objects
     for article in articles:
         article_obj = {"content": article}  # create dictionary object with "content" key
         if(len(article)!=1):
             article_list.append(article_obj)  # add article object to list
-    break
     
 
 # print number of articles and first article content

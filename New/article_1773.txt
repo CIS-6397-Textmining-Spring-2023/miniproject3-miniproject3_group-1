@@ -1,0 +1,25 @@
+Pro Cyber
+Editor's News Picks
+
+433 words
+26 September 2017
+12:50
+WSJ Pro Cybersecurity
+RSTPROCY
+English
+Copyright ©017, Dow Jones & Company, Inc. 
+
+Illinois Privacy Bill Vetoed: Illinois Governor Bruce Rauner has vetoed a bill that would have required mobile app makers to obtain a user's explicit permission, and explain how their data would be used, before collecting their location data. Mr. Rauner, a Republican, said the rules would represent "an unnecessary and byzantine layer of regulation" and said the issue of protecting consumer privacy should be addressed in the form of federal regulation, as quoted by the Associated Press  .
+
+Changing Security Incentives: Security professionals have long complained that without government regulation or private sector momentum, organizations will have little motivation to invest in effective risk mitigation techniques. But
+
+Dark Reading notes   that sinking Equifax stock, which has fallen by more than one-third since the data breach there earlier this month, could represent a watershed moment if other business leaders nervous about their own vulnerability recognize the need to protect their bottom line and reputation.
+
+Polish GDPR Guidance: Poland has published a package of new draft laws that aim to align the country's data protection laws with the upcoming General Data Protection Regulation. The International Association of Privacy Professionals breaks down the law  , which clarifies the responsibilities of the Polish data protection authority and explains what types of information--including IT systems and corporate networks--that DPA is authorized to access. Next, the draft will go through a public consultation period with industry before its formalized into law.
+
+SEC Rules Reexamined: The Investment Company Institute, a global investor group, is urging the U.S. Securities and Exchange Commission to delay new rules meant to spark the collection of data on firms' security practices. The effort comes after the SEC announced last week it was targeted as part of a data breach that may have enabled insider trading. Now, ICO executives tell Reuters   the SEC should hold off implementing new rules until "a full inquiry" from the Government Accountability Office explains "exactly what happened here."
+
+Cyber Terror Fail: Business leaders trying to prioritize their cyberrisk threats should not dedicate too many resources to fending off cyberterrorism from the so-called Islamic State terrorist group, according to a new report. Would-be Islamic State hackers stopped trying to develop their own secure communications, per The Register  , and, while ISIS members may have invested in low-level hacking tools available on cybercrime forums, they have yet to successfully leverage malicious software. "[As] it stands ISIS are not hugely operationally capable online," one expert told The Register. "As it is right now we should be concerned, of course, but within reason."
+
+Document RSTPROCY20170926ed9q00001
+

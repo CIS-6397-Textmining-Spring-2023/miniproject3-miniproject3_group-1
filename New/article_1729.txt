@@ -1,0 +1,24 @@
+CN-Tech
+Facebook失误泄露审查员信息 安全或受到威胁
+
+Georgia Wells 
+312 words
+19 June 2017
+09:40
+华尔街日报中文版 (简体)
+WSJCN
+Chinese - Simplified
+Copyright 2017 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Facebook Inc. (FB)因疏忽将负责审核疑似恐怖分子和其它群组发布内容的审查员姓名暴露给这些审查对象，该公司上周五称这一漏洞已修复。             
+
+Facebook发言人称，大约1,000名Facebook审查员受到在活动日志中公开审查员姓名的该漏洞影响。不过，点击审查员姓名将转向该审查员Facebook个人资料公开页。该发言人称，绝大多数情况下这些群组的管理员看不到审查员姓名。             
+
+Facebook调查人员认为，疑似恐怖分子也许已经查看了不少于六名审查员的个人资料；据调查，这些情况无一涉及恐怖组织伊斯兰国(ISIS)疑似成员。             
+
+该发言人称，这一问题去年秋天出现，于去年11月解决。英国《卫报》(Guardian)早先报道了该漏洞及后来被解决的消息。             
+
+针对这种情况，Facebook做出大量改变，防止员工信息再次外泄。该公司还在测试无须审查员用个人Facebook账户登录的新审查账号。             
+
+Document WSJCN00020170619ed6j000e2
+

@@ -1,0 +1,5 @@
+Topic 1: 0.017*"state" + 0.015*"said" + 0.013*"islam" + 0.010*"mr" + 0.008*"syria" + 0.008*"forc" + 0.007*"militari" + 0.006*"american" + 0.006*"offici" + 0.006*"iraq"
+Topic 2: 0.009*"said" + 0.006*"peopl" + 0.006*"one" + 0.005*"attack" + 0.005*"time" + 0.005*"go" + 0.005*"year" + 0.004*"think" + 0.004*"new" + 0.004*"mr"
+Topic 3: 0.014*"trump" + 0.011*"mr" + 0.007*"new" + 0.007*"presid" + 0.006*"time" + 0.006*"said" + 0.005*"state" + 0.004*"york" + 0.004*"would" + 0.004*"american"
+Coherence Score: 0.3801075738304294
+Perplexity Score: -7.960082655462647
